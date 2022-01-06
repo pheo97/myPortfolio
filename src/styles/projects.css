@@ -1,0 +1,11 @@
+.projects{
+    width: 100%;
+    text-align: center;
+}
+
+.project{
+    width: 100%;
+    display: inline-block;
+    margin: 0 30px;
+    margin-top: 2rem;
+}

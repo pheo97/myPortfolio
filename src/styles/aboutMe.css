@@ -1,0 +1,12 @@
+.aboutMe{
+   width: 100%;
+   text-align: center;
+  }
+
+.skills{
+    width:30%;
+    border: black 1px solid;
+    display: inline-block;
+    margin-right: 3rem;
+    border-radius: 10%;
+}
